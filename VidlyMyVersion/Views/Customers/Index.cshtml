@@ -1,4 +1,4 @@
-﻿@model VidlyMyVersion.ViewModels.CustomersListViewModel
+﻿@model IEnumerable<VidlyMyVersion.Models.Customer>
 @{
     ViewBag.Title = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
@@ -7,7 +7,7 @@
 <h2>Customers</h2>
 
 
-@if (Model.Customers.Count == 0)
+@if (!Model.Any())
 {
     <p>There are no customers</p>
 }
@@ -19,14 +19,20 @@ else
                 <th>
                     Customer
                 </th>
+                <th>
+                    Discount Rate
+                </th>
             </tr>
         </thead>
         <tbody>
-            @foreach (var customer in Model.Customers)
+            @foreach (var customer in Model)
             {
                 <tr>
                     <td>
-                        <a href="Customers/details/@customer.Id">@customer.Name</a>
+                        <a href="details/@customer.Id">@customer.Name</a>
+                    </td>
+                    <td>
+                        @customer.MembershipType.DiscountRate%
                     </td>
                 </tr>
             }

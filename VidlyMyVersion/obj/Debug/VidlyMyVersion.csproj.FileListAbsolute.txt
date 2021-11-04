@@ -106,3 +106,9 @@ C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVers
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.csproj.CopyComplete
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.dll
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.pdb
+C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.InitialModel.resources
+C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.csproj.GenerateResource.cache
+C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.AddMembershipType.resources
+C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.PopulateMembershipTypes.resources
+C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.ApplyAnnotationsToCustomerName.resources
