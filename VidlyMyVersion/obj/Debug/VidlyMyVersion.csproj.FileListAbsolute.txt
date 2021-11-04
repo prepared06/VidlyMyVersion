@@ -112,3 +112,5 @@ C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVers
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.AddMembershipType.resources
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.PopulateMembershipTypes.resources
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.AddNameToMembershiptype.resources
+C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.PopulateNameToMembershipType.resources
