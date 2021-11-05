@@ -1,4 +1,4 @@
-﻿@model VidlyMyVersion.ViewModels.MoviesListViewModel
+﻿@model IEnumerable<VidlyMyVersion.Models.Movie>
 @{
     ViewBag.Title = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
@@ -12,14 +12,20 @@
             <th>
                 Movie
             </th>
+            <th>
+                Genre
+            </th>
         </tr>
     </thead>
     <tbody>
-        @foreach(var movie in Model.Movies)
+        @foreach(var movie in Model)
         {
             <tr>
                 <td>
-                    @movie.Name
+                    <a href="movies/details/@movie.Id">@movie.Name</a>
+                </td>
+                <td>
+                    @movie.Genre.Name
                 </td>
             </tr>
         }

@@ -116,3 +116,7 @@ C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVers
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.PopulateNameToMembershipType.resources
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.AddBirthdayToCustomer.resources
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.AddBirthdayToCustomer1.resources
+C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.ChangedMovieModel.resources
+C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.AddGenre.resources
+C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.AddGenre1.resources
+C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.PopulateGenres.resources
