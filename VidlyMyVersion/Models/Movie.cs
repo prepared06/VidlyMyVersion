@@ -12,7 +12,7 @@ namespace VidlyMyVersion.Models
 
         [Required]
         public int  GenreId{ get; set; }
-        [Required]
+
         public Genre Genre { get; set; }
         [Required]
         public string Name { get; set; }

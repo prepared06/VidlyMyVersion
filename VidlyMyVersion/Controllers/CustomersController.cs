@@ -53,7 +53,8 @@ namespace VidlyMyVersion.Controllers
 
                 customerInDb.Name = customer.Name;
                 customerInDb.Birthday = customer.Birthday;
-                customerInDb.MembershipType = customer.MembershipType;
+                //customerInDb.MembershipType = customer.MembershipType;
+                customerInDb.MembershipTypeId = customer.MembershipTypeId;
                 customerInDb.IsSubscribedToNewsLetter = customer.IsSubscribedToNewsLetter;
             }
 
