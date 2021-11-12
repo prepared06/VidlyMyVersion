@@ -101,7 +101,6 @@ C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\bin\Microsoft.Owin.Se
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.csproj.AssemblyReference.cache
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.csproj.CoreCompileInputs.cache
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.csproj.CopyComplete
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.dll
@@ -120,3 +119,4 @@ C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVers
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.AddGenre.resources
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.AddGenre1.resources
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.PopulateGenres.resources
+C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.csproj.AssemblyReference.cache
