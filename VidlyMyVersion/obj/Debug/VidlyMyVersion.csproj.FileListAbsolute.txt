@@ -119,7 +119,6 @@ C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVers
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.AddGenre.resources
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.AddGenre1.resources
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.Migrations.PopulateGenres.resources
-C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.csproj.AssemblyReference.cache
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\bin\System.Net.Http.Formatting.dll
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\bin\System.Web.Http.dll
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\bin\System.Web.Http.WebHost.dll
@@ -128,3 +127,4 @@ C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\bin\System.Web.Http.x
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\bin\System.Web.Http.WebHost.xml
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\bin\AutoMapper.dll
 C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\bin\AutoMapper.xml
+C:\Users\sad-pc\source\repos\VidlyMyVersion\VidlyMyVersion\obj\Debug\VidlyMyVersion.csproj.AssemblyReference.cache
